@@ -28,4 +28,29 @@ I have learned HTML and CSS. where I learned how to structure and design webpage
 
 ### Usage
 
-To view the omelette recipe page, simply open the index.html file in your web browser.
+```html
+<h1>Some HTML code I'm proud of</h1>
+```
+```css
+.proud-of-this-css {
+  color: papayawhip;
+}
+```
+```js
+const proudOfThisFunc = () => {
+  console.log('🎉')
+}
+```
+
+To view the omelette recipe page, follow these steps:
+
+1. Clone the repository to your local machine using the following command:
+
+2. Open the cloned folder in your preferred code editor (e.g., VS Code).
+  git clone https://github.com/your-username/Recipe-page-using-html-css
+
+3. In the code editor, locate the `index.html` file in the folder structure.
+
+4. Right-click on the `index.html` file and select "Open with Live Server" or a similar option depending on your code editor.
+
+5. The omelette recipe page should now open in your default web browser.
