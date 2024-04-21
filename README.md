@@ -28,20 +28,6 @@ I have learned HTML and CSS. where I learned how to structure and design webpage
 
 ### Usage
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
 To view the omelette recipe page, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
